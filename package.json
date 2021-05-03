@@ -19,6 +19,6 @@
   "homepage": "https://github.com/edisoncast/Example-node-hydra-docker#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "fwsp-hydra-express": "^0.15.17"
+    "fwsp-hydra-express": "^1.0.0"
   }
 }
